@@ -1,0 +1,8 @@
+C:\Users\PG2705CE\Documents\Visual Studio 2010\Projects\baigiamasis\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+C:\Users\PG2705CE\Documents\Visual Studio 2010\Projects\baigiamasis\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+C:\Users\PG2705CE\Documents\Visual Studio 2010\Projects\baigiamasis\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.Form1.resources
+C:\Users\PG2705CE\Documents\Visual Studio 2010\Projects\baigiamasis\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.Properties.Resources.resources
+C:\Users\PG2705CE\Documents\Visual Studio 2010\Projects\baigiamasis\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.csproj.GenerateResource.Cache
+C:\Users\PG2705CE\Documents\Visual Studio 2010\Projects\baigiamasis\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.exe
+C:\Users\PG2705CE\Documents\Visual Studio 2010\Projects\baigiamasis\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.pdb
+C:\Users\PG2705CE\Documents\Visual Studio 2010\Projects\baigiamasis\WindowsFormsApplication17\obj\x86\Debug\WindowsFormsApplication17.Form2.resources
